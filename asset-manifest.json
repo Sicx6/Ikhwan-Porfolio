@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Ikhwan-Portfolio/static/css/main.3df42d32.css",
-    "main.js": "/Ikhwan-Portfolio/static/js/main.7fa1ce5b.js",
-    "static/media/shopping.jpg": "/Ikhwan-Portfolio/static/media/shopping.b2c9540fede1517f43f8.jpg",
-    "static/media/tic_tac_toe.jpg": "/Ikhwan-Portfolio/static/media/tic_tac_toe.f8c25ecf4ccc36d2821c.jpg",
-    "static/media/meals.jpg": "/Ikhwan-Portfolio/static/media/meals.3b77b141b53a6d0fb04c.jpg",
-    "static/media/news.jpg": "/Ikhwan-Portfolio/static/media/news.038aec28501a4fdb1c2b.jpg",
-    "static/media/Flutter.png": "/Ikhwan-Portfolio/static/media/Flutter.ca94ec2db8f81a675d8b.png",
-    "static/media/Resume - Ikhwan.pdf": "/Ikhwan-Portfolio/static/media/Resume - Ikhwan.f63b56a595fe75e5192b.pdf",
-    "static/media/react.png": "/Ikhwan-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/html.png": "/Ikhwan-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/Ikhwan-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/Ikhwan-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/firebase.png": "/Ikhwan-Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
-    "static/media/javascript.png": "/Ikhwan-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Ikhwan-Portfolio/index.html",
-    "main.3df42d32.css.map": "/Ikhwan-Portfolio/static/css/main.3df42d32.css.map",
-    "main.7fa1ce5b.js.map": "/Ikhwan-Portfolio/static/js/main.7fa1ce5b.js.map"
+    "main.css": "/Ikhwan-Porfolio/static/css/main.3df42d32.css",
+    "main.js": "/Ikhwan-Porfolio/static/js/main.5eeaae60.js",
+    "static/media/shopping.jpg": "/Ikhwan-Porfolio/static/media/shopping.b2c9540fede1517f43f8.jpg",
+    "static/media/tic_tac_toe.jpg": "/Ikhwan-Porfolio/static/media/tic_tac_toe.f8c25ecf4ccc36d2821c.jpg",
+    "static/media/meals.jpg": "/Ikhwan-Porfolio/static/media/meals.3b77b141b53a6d0fb04c.jpg",
+    "static/media/news.jpg": "/Ikhwan-Porfolio/static/media/news.038aec28501a4fdb1c2b.jpg",
+    "static/media/Flutter.png": "/Ikhwan-Porfolio/static/media/Flutter.ca94ec2db8f81a675d8b.png",
+    "static/media/Resume - Ikhwan.pdf": "/Ikhwan-Porfolio/static/media/Resume - Ikhwan.f63b56a595fe75e5192b.pdf",
+    "static/media/react.png": "/Ikhwan-Porfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/Ikhwan-Porfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Ikhwan-Porfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Ikhwan-Porfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/Ikhwan-Porfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/Ikhwan-Porfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Ikhwan-Porfolio/index.html",
+    "main.3df42d32.css.map": "/Ikhwan-Porfolio/static/css/main.3df42d32.css.map",
+    "main.5eeaae60.js.map": "/Ikhwan-Porfolio/static/js/main.5eeaae60.js.map"
   },
   "entrypoints": [
     "static/css/main.3df42d32.css",
-    "static/js/main.7fa1ce5b.js"
+    "static/js/main.5eeaae60.js"
   ]
 }

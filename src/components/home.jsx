@@ -1,32 +1,5 @@
-import React from 'react'
-import {HiArrowNarrowRight} from 'react-icons/hi'
-// import {Link} from 'react-scroll';
-
-const home = () => {
-  return (
-    <div name='home' className='w-full h-screen bg-[#1b2223]'>
-
-    {/* container */}
-    <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        <p className='text-[#0ef6cc]'>Hi, My Name is</p>
-        <h1  className='text-4xl sm: text-7xl font-bold text-[#f4fefd]'>Mohamad Ikhwan</h1>
-        <h2 className='text-4xl sm: text-7xl font-bold text-[#557b7c]'>I am an IT Graduate.</h2>
-        <p className='text-[#557b7c] py-4 max-[700px]'>I'am a IT Graduate with knowledge in building
-        web and mobile development. Currently invested on improving
-        and gathering my experinces and skills.
-        </p>
-        <div>
-            <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#0ef6cc] hover:border-[#0ef6cc]'>View Work
-            <span className='group-hover:rotate-90 duration-300'>
-            <HiArrowNarrowRight className="ml-3"/>
-            </span>
-            </button>
-
-        </div>
-    </div>
-
-    </div>
-  )
-}
-
-export default home
+import React from 'react';
+import { HiArrowNarrowRight } from 'react-icons/hi';
+import { Link } from 'react-scroll';
+const Home=()=> <div name="home" className="w-full min-h-screen bg-[#1b2223]"><div className="max-w-[1100px] mx-auto px-6 md:px-8 flex flex-col justify-center min-h-screen pt-20"><p className="text-[#0ef6cc] font-semibold">Hi, I'm</p><h1 className="text-4xl sm:text-6xl font-bold text-[#f4fefd] mt-2">Mohamad Ikhwan</h1><h2 className="text-3xl sm:text-5xl font-bold text-[#6f999a] mt-3">Mobile Application Developer</h2><p className="text-[#b3c5c5] py-6 max-w-[820px] leading-relaxed">I build production mobile and Android kiosk applications primarily with Flutter and Dart, with end-to-end experience across REST APIs, GetX, SQLite, WebSocket, Firebase, payments, backend development, databases, and device integration.</p><Link to="works" smooth duration={500}><button className="text-white group border-2 border-[#0ef6cc] px-6 py-3 flex items-center hover:bg-[#0ef6cc] hover:text-[#1b2223] duration-200">View Projects<span className="group-hover:rotate-90 duration-300"><HiArrowNarrowRight className="ml-3"/></span></button></Link></div></div>;
+export default Home;

@@ -1,36 +1,3 @@
-import React from 'react'
-
-const About = () => {
-  return (
-    <div name="about" className="w-full h-screen bg-[#1b2223] text-gray-300">
-      <div className="flex flex-col justify-center items-center w-full h-full">
-        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
-          <div className="sm:text-right pb-8 pl-4">
-            <p className="text-4xl font-bold inline border-b-4 border-[#0ef6cc]">
-              About
-            </p>
-          </div>
-          <div />
-        </div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-4xl font-bold">
-            <p>
-              Hi. I'm Ikhwan, nice to meet you. Please take a look around.
-            </p>
-          </div>
-          <div>
-            <p>
-               I am an IT Graduate with a strong passion for creating software that benefits both himself and others.
-               As a beginner in the field, I am eager to learn and grow my skills while making a positive impact through my work. 
-               With a focus on developing visually appealing and user-friendly interfaces, my aims is to enhance the digital experiences of users. 
-               I am actively seeks opportunities to collaborate and engage with fellow developers, understanding the importance of continuous learning and improvement. 
-               With a dedicated mindset and a genuine enthusiasm for front-end development, I'm excited to embark on this journey and contribute meaningfully to the development community.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
-
+import React from 'react';
+const About=()=> <div name="about" className="w-full bg-[#1b2223] text-gray-300 py-24"><div className="max-w-[1100px] mx-auto px-6 md:px-8"><p className="text-4xl font-bold inline border-b-4 border-[#0ef6cc]">About</p><div className="grid md:grid-cols-3 gap-8 mt-10"><div className="text-2xl md:text-3xl font-bold text-[#f4fefd]">Mobile-first development with broad technical ownership.</div><div className="md:col-span-2 space-y-4 text-base md:text-lg leading-relaxed text-[#b3c5c5]"><p>I am a Mobile Application Developer with nearly three years of professional Flutter experience. My work spans mobile and kiosk applications, backend APIs, database changes, system integrations, debugging, and production support in a lean development environment.</p><p>My primary stack includes Flutter, Dart, GetX, SQLite, REST APIs, WebSocket, Firebase, PHP/CodeIgniter, MySQL, and JavaScript. I have worked on payment flows, real-time machine communication, Figma-to-Flutter implementation, and dual-mode HID keyboard and serial scanner integration.</p><p>Outside professional work, I build personal projects to broaden my engineering skills, including AI Chord Finder, a Flutter application connected to a local Python audio-analysis service.</p></div></div></div></div>;
 export default About;

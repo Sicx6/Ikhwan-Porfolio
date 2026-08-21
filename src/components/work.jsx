@@ -9,8 +9,8 @@ const professionalProjects = [
   {
     title: 'AI Smart Fridge Ecosystem',
     type: 'Professional Project',
-    stack: 'Flutter • Dart • GetX • SQLite • REST APIs • WebSocket • Firebase • CodeIgniter • MySQL',
-    desc: 'Owned and delivered software features across the smart fridge mobile and Android kiosk ecosystem, working across Flutter, backend APIs, database changes, integrations, debugging, and production support.',
+    stack: 'Flutter • Dart • GetX • SQLite • REST APIs • MQTT • WebSocket • Firebase • PHP/CodeIgniter • MySQL',
+    desc: 'A production smart fridge ecosystem spanning an Android-based fridge/kiosk application, customer-facing Flutter mobile and web applications, a web-based admin portal, backend REST APIs, databases, and real-time machine communication using MQTT and WebSocket. I take end-to-end ownership of features across application development, API and database changes, system integration, debugging, and production support.',
     highlights: [
       'Remote door access and approval workflows, AI refill, product image/dataset upload, and transaction records.',
       'Real-time machine communication, local persistence, payment-related flows, and production troubleshooting.',

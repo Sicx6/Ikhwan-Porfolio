@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ikhwan-Porfolio/static/css/main.0eb2b97c.css",
-    "main.js": "/Ikhwan-Porfolio/static/js/main.44090c9c.js",
+    "main.js": "/Ikhwan-Porfolio/static/js/main.d64e3e41.js",
     "static/media/shopping.jpg": "/Ikhwan-Porfolio/static/media/shopping.b2c9540fede1517f43f8.jpg",
     "static/media/youtube.jpg": "/Ikhwan-Porfolio/static/media/youtube.cb4e8f3d29f87fc90963.jpg",
     "static/media/songs.jpg": "/Ikhwan-Porfolio/static/media/songs.f68eb8a4e7fb8dca1d31.jpg",
@@ -11,10 +11,10 @@
     "index.html": "/Ikhwan-Porfolio/index.html",
     "static/media/recycle-placeholder.svg": "/Ikhwan-Porfolio/static/media/recycle-placeholder.703e3ff007b437b68072c0aaa227dc9b.svg",
     "main.0eb2b97c.css.map": "/Ikhwan-Porfolio/static/css/main.0eb2b97c.css.map",
-    "main.44090c9c.js.map": "/Ikhwan-Porfolio/static/js/main.44090c9c.js.map"
+    "main.d64e3e41.js.map": "/Ikhwan-Porfolio/static/js/main.d64e3e41.js.map"
   },
   "entrypoints": [
     "static/css/main.0eb2b97c.css",
-    "static/js/main.44090c9c.js"
+    "static/js/main.d64e3e41.js"
   ]
 }
